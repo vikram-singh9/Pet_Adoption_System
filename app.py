@@ -12,7 +12,7 @@ menu = st.sidebar.selectbox('Menu', ["Add Pet", "View Pets", "Adopt Pet", "View 
 if menu == "Add Pet":
     st.subheader(" Add a New Pet")
     name = st.text_input("Pet Name")
-    species = st.selectbox("Species", ["Dog", "Cat", "Rabbit", "Bird"])
+    species = st.selectbox("Species", ["Dog🐕", "Cat😾", "Rabbit🐰", "Bird 🕊"])
     age = st.number_input("Age",min_value=0)
     breed = st.text_input("Breed")
 
