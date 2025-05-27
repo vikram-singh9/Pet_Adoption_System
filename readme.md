@@ -1,6 +1,6 @@
 # 🐾 Pet Adoption System
 
-A Pet Adoption System built using **Python**, **OOP (Object-Oriented Programming)**, and **Streamlit** for the user interface. This project is ideal for those who are learning Python, Streamlit, and want to practice applying OOP concepts in a real-world mini-project.
+A Pet Adoption System built using **Python**, **OOP (Object-Oriented Programming)**, and **Streamlit** for the user interface. This project is ideal for those who are learning Python, Streamlit, and want to practice applying OOP concepts in a real-world mini-project!
 
 ---
 
