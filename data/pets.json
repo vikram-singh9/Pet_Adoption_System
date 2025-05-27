@@ -1,18 +1,1 @@
-[
-  {
-    "id": "47ee9df1-09dc-4eca-a8b3-7c6b64805598",
-    "name": "mia",
-    "species": 4,
-    "age": "Cat",
-    "breed": "orange cat",
-    "adopted": true
-  },
-  {
-    "id": "ad4cbf05-0275-4d13-8193-12d6d19d34a0",
-    "name": "suzo",
-    "species": 6,
-    "age": "Dog",
-    "breed": "german shefered",
-    "adopted": false
-  }
-]
+[]
