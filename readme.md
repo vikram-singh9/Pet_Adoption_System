@@ -39,14 +39,7 @@ pet-adoption-system/
 
 ---
 
-## 🚀 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/pet-adoption-system.git
-cd pet-adoption-system
-
+## How to Run
 
 streamlit run app.py
 
