@@ -1,0 +1,14 @@
+[project]
+name = "pet-adoption-system"
+version = "0.1.0"
+description = "A pet adoption system built with Streamlit"
+authors = [
+  { name="Vikram", email="vikram.dev.co@gmail.com" }
+]
+dependencies = [
+  "streamlit>=1.0.0",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,6 @@
+pyproject.toml
+pet_adoption_system.egg-info/PKG-INFO
+pet_adoption_system.egg-info/SOURCES.txt
+pet_adoption_system.egg-info/dependency_links.txt
+pet_adoption_system.egg-info/requires.txt
+pet_adoption_system.egg-info/top_level.txt

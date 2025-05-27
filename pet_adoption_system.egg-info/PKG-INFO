@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: pet-adoption-system
+Version: 0.1.0
+Summary: A pet adoption system built with Streamlit
+Author-email: Vikram <vikram.dev.co@gmail.com>
+Requires-Dist: streamlit>=1.0.0
