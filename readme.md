@@ -6,7 +6,7 @@ A Pet Adoption System built using **Python**, **OOP (Object-Oriented Programming
 
 ## 📌 Features
 
-- ✅ Add new pets (name, species, age, breed)
+- ✅ Add new pets (name, species, age, breed)j
 - 👀 View all available pets
 - 🐶 Adopt a pet (marks it as adopted)
 - 📄 View all adopted pets
